@@ -1,0 +1,12 @@
+Built-in functions - funções nativas de python
+principais funções built - in
+dir(); - retorna os métodos do objeto analisado
+help(); - retorna informações e funcionamento dos objetos de interesse
+type() - retorna o tipo do objeto
+len() - retorna o tamango do objeto
+int() - transforma o objeto em número inteiro
+float() - transforma o objeto em ponto flutuante
+list() - trasnforma o objeto em uma lista
+max() - encontra o máximo valor de um conjunto de objetos
+min() - encontra o minimo valor de um conjunto de objetos
+range() - cria um intervalo de valores igualmente espaçados por intervalos definidos
